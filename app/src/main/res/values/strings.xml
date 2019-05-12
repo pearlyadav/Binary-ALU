@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ALU</string>
+    <string name="Number0">0</string>
+    <string name="Number1">1</string>
+    <string name="OperationAND">AND</string>
+    <string name="OperationOR">OR</string>
+    <string name="OperationNOT">NOT</string>
+    <string name="OperationXOR">XOR</string>
+    <string name="OperationLS">LEFT\nSHIFT</string>
+    <string name="OperationC">CLEAR</string>
+    <string name="OperationDEL">DEL</string>
+    <string name="HowTo">\?</string>
+    <string name="OperationEQUAL">=</string>
+    <string name="OperationAdd">+</string>
+    <string name="OperationSubtraction">-</string>
+    <string name="OperationMultiply">*</string>
+    <string name="OperationDivide">/</string>
+    <string name="OperationIncrement">++</string>
+    <string name="ins1">1. All the inputs and outputs should be in Binary.</string>
+    <string name="ins2">2. Both the Operands for Operators should be in Binary.</string>
+    <string name="ins">Instructions</string>
+    <string name="ins3">3. Want to Convert Decimal to Binary ?</string>
+    <string name="dec">Decimal : </string>
+    <string name="bin">Binary : </string>
+    <string name="Button1_AC">Arithmatic\ncalculations</string>
+    <string name="Button2_LC">Logical\nCalculations</string>
+    <string name="logo">Logo</string>
+
+</resources>
