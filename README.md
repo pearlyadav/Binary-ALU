@@ -1,5 +1,5 @@
 # Binary-ALU 
-[Click Here to Download the apk file](https://doc-08-34-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/2kp9910mphcnhrmpfd0fhbp8akpugf06/1557684000000/02651142182668288993/*/1Qh672iosXPxkIsAizU8P9k7b5BinOt6M?e=download)
+[Click Here to Download the apk file](https://docs.google.com/uc?export=download&id=1fBgwhlKZOybn27b-JffS4agytUIfL1E8)
 
 ### What Does this app do?
 
