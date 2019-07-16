@@ -34,8 +34,6 @@ This Android Application can be used to perform ***Arithmatic and Logical*** ope
 
 ***
 
-This is a Project for my Digital Electronics Lab Semester Ending Evaluations in Chandigarh University.
-
 ***
 
 
