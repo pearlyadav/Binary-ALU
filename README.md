@@ -3,7 +3,7 @@
 
 ### What Does this app do?
 
-This Android Application can be used to perform ***Arithmatic and Logical*** operations
+This Android Application can be used to perform ***Arithmatic and Logical*** operations on any given two numbers in decimal format.
 
 ***
 
