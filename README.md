@@ -1,9 +1,9 @@
 # Binary-ALU 
-[Click Here to Download the apk file](https://docs.google.com/uc?export=download&id=1fBgwhlKZOybn27b-JffS4agytUIfL1E8)
+[Click Here to Download the apk file](https://docs.google.com/uc?export=download&id=1Qh672iosXPxkIsAizU8P9k7b5BinOt6M)
 
 ### What Does this app do?
 
-This Android Application can be used to perform ***Arithmatic and Logical*** operations on any given two numbers in decimal format.
+This Android Application can be used to perform ***Arithmatic and Logical*** operations.
 
 ***
 
